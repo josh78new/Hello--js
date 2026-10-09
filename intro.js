@@ -1,0 +1,1 @@
+console.log("Hello, world! Finally, I got it.")
